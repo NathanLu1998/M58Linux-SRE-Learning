@@ -53,17 +53,16 @@ int main()
 
 >引用别人说过的话
 >就这样写
->
+
 >下面是代码引用
->```c
->#include <stdio.h>
->
->int main()
->{
->    printf("Hello,Word!");
->}
->```
->代码引用结束
->
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello,Word!");
+}
+```
+
 
 注释：<!-- 你看不见我，红红火火恍恍惚惚，23333 -->
